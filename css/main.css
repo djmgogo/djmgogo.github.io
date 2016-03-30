@@ -1,0 +1,37 @@
+p {
+    color: red;
+}
+
+p.normal {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+h1 {
+    margin: 10px 15px 25px 35px;
+    border: 1px;
+    red dashed;
+    padding: 10px;
+    width: 400px;
+}
+
+.left {
+    float: left;
+    width: 400px;
+    border: 1px red dotted;
+}
+
+.middle {
+    float: left;
+    width: 400px;
+    border: 1px red dotted;
+}
+
+.right {
+    float: left;
+    width: 400px;
+    border: 1px red dotted;
+}
