@@ -1,0 +1,21 @@
+div {
+	border: 1px #ccc solid;
+	border-radius: 10px;
+	background-color: pink;
+    margin: 20px;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}
+div.left{
+	width:20%;
+	float:left;
+}
+div.middle{
+	width:40%;
+	float:right;
+}
+div.right{
+	width:20%;
+	height:30%;
+	float:right;
+}
